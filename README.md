@@ -1,5 +1,3 @@
-# 26-Instalar-Raspberry-OS-SSH-VNC
-
 # Introducción
 
 Raspberry OS es el sistema operativo oficial para las placas Raspberry Pi. Es un sistema operativo basado en Linux y es gratuito y de código abierto.
