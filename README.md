@@ -8,7 +8,6 @@ VNC es un acrónimo de "Virtual Network Computing" o "Computación en Red Virtua
 
 # Material Necesario
 
-
 - Lector USB de SD Card
 - Raspberry Pi 4
 - [Comandos Linux](https://github.com/RaulToribio/07-Comandos-Linux)
