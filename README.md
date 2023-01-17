@@ -1,6 +1,5 @@
 # Introducción
 
-
 Raspberry OS es el sistema operativo oficial para las placas Raspberry Pi. Es un sistema operativo basado en Linux y es gratuito y de código abierto.
 
 SSH es un acrónimo de "Secure Shell" o "Terminal Segura" en español. Es un protocolo de red que se utiliza para conectarse de forma segura a un servidor remoto mediante una conexión cifrada. Con SSH, los usuarios pueden acceder a un servidor remoto y ejecutar comandos, transferir archivos, y realizar otras tareas de forma segura y protegida contra interceptación.
